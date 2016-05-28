@@ -1,0 +1,3 @@
+[submodule "deepnet"]
+	path = deepnet
+	url = https://github.com/nitishsrivastava/deepnet
